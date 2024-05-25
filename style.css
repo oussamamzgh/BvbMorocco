@@ -42,7 +42,7 @@ section {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background-image: url('https://img.goodfon.com/original/2000x1337/d/80/eduard-gordeev-sankt-peterburg-rossiia-kriukov-kanal-nikolsk.jpg') no-repeat;
+    background-image: url('./images/bg.jpg') no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
